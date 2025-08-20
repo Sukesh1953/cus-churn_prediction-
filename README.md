@@ -27,7 +27,7 @@ This template is beginner-friendly, easy to customize, and provides real insight
 
 ### Option 1: Run in Google Colab (Recommended ✅)
 1. Click the button below:  
-   [![Open In Colab](https://colab.research.google.com/drive/1CyO3LXDT4cEA3lBeNWM7T1L73RV-Rmbq)](YOUR_COLAB_LINK_HERE)  
+   [![Open In Colab](https://colab.research.google.com/drive/1CyO3LXDT4cEA3lBeNWM7T1L73RV-Rmbq)](https://colab.research.google.com/drive/1CyO3LXDT4cEA3lBeNWM7T1L73RV-Rmbq)  
 2. Upload your dataset  
 3. Run all cells to get churn prediction results  
 
